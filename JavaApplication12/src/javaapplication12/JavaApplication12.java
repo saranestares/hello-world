@@ -7,6 +7,7 @@ package javaapplication12;
 /**
  *
  * @author 6DAWT
+ * version 1.0
  */
 public class JavaApplication12 {
 
